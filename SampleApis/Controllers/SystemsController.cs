@@ -58,11 +58,20 @@ namespace SampleApis.Controllers
             return Ok(result.Entity.Id);
         }
 
+        [HttpGet, Route("GetById")]
+        public async Task<IActionResult> GetById(string id)
+        {
+            if (string.IsNullOrEmpty(id)) return NotFound("Id is required!");
+
+            return Ok(await _repository.Find(c =>c.Id == id).SingleOrDefaultAsync());
+        }
 
         [HttpGet, Route("GetByKey")]
-        public async Task<IActionResult> GetKey(string id)
+        public async Task<IActionResult> GetByKey(string key)
         {
-            return Ok(await _repository.Find(c =>c.Id == id).SingleOrDefaultAsync());
+            if (string.IsNullOrEmpty(key)) return NotFound("Key is required!");
+
+            return Ok(await _repository.Find(c => c.Key == key).ToListAsync());
         }
     }
 }

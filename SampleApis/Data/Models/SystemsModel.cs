@@ -9,6 +9,7 @@ namespace SampleApis.Data.Models
 {
     public class SystemsModel
     {
+        [Required]
         public string Id { set; get; }
         [StringLength(45)]
         public string Key { set; get; }

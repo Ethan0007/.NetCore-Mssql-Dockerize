@@ -40,4 +40,4 @@ namespace SampleApis
                     webBuilder.UseStartup<Startup>();
                 });
     }
-}
+}           

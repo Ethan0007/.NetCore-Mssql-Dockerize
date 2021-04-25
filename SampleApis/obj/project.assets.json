@@ -6058,11 +6058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joever Monceda\\source\\repos\\SampleApis - Copy\\SampleApis\\SampleApis.csproj",
+      "projectUniqueName": "D:\\.NetCoreMssqlDockerize\\.NetCore-Mssql-Dockerize\\SampleApis\\SampleApis.csproj",
       "projectName": "SampleApis",
-      "projectPath": "C:\\Users\\Joever Monceda\\source\\repos\\SampleApis - Copy\\SampleApis\\SampleApis.csproj",
+      "projectPath": "D:\\.NetCoreMssqlDockerize\\.NetCore-Mssql-Dockerize\\SampleApis\\SampleApis.csproj",
       "packagesPath": "C:\\Users\\Joever Monceda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joever Monceda\\source\\repos\\SampleApis - Copy\\SampleApis\\obj\\",
+      "outputPath": "D:\\.NetCoreMssqlDockerize\\.NetCore-Mssql-Dockerize\\SampleApis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

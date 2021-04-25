@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CEl/UcnIi0iyWwvhsOmh8pjiq0h09nV02JOwHTHM7r2ggb6czvqQOvl9OUQ+9CNyezFRz/2//EgR1jLPFC/+ng==",
+  "dgSpecHash": "1XclHScXlYaMI9vFKxegxAZYiSh+BSnF23O86sIbokrnMvP1TLujMX8PG8uzxoPsP/bwdrimoPMOzODm760nuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joever Monceda\\source\\repos\\SampleApis - Copy\\SampleApis\\SampleApis.csproj",
+  "projectFilePath": "D:\\.NetCoreMssqlDockerize\\.NetCore-Mssql-Dockerize\\SampleApis\\SampleApis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joever Monceda\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Joever Monceda\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
