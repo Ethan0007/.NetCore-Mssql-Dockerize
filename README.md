@@ -17,7 +17,7 @@ This repository is just a playground for containerizing .net core and mssql at t
 
  ## License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-  Copyright (c) 2020 [Joever Monceda](https://github.com/Ethan0007)
+  Copyright (c) 2021 [Joever Monceda](https://github.com/Ethan0007)
 
 
   Linkedin: [Joever Monceda](https://www.linkedin.com/in/joever-monceda-55242779/)  
