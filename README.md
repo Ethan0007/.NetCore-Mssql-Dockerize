@@ -13,7 +13,7 @@ This repository is just a playground for containerizing .net core and mssql at t
    - it will download images for aspnet 3.1 and sdk 3.1 (wait until the download done).
 3. docker-compose up -d
 4. to verify the image enter command:  docker images
-5. to run the image enter the command: docker run -t --rm -p:9090:80 asp-net-core-docker-test:v1
+
 
  ## License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
